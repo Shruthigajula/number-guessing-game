@@ -37,7 +37,7 @@ Save best scores
 📄 License
 This project is open-source and available under the MIT License.
 
-✨ Made with Gajula Shruthi
+✨ Made by Gajula Shruthi
 
 
 
